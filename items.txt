@@ -1,0 +1,15 @@
+item = input("Enter a new item: ")
+C:\Users\user\AppData\Local\Programs\Python\Python313\python.exe c:/Users/user/Desktop/python/text23.py
+C:\Users\user\AppData\Local\Programs\Python\Python313\python.exe c:/Users/user/Desktop/python/text23.py
+apple
+C:\Users\user\AppData\Local\Programs\Python\Python313\python.exe c:/Users/user/Desktop/python/text23.py
+pen
+pencil
+pen
+pen
+pen
+pencil
+book
+kiwi
+pen
+kir
